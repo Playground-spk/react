@@ -31,3 +31,14 @@ cat.Kingdom; // ได้ Animalia
 
 dog.cute; // undefined
 cat.cute; // "kawaii"
+
+
+class Kitchen {
+  constructor(name,age) {
+
+    this.
+
+
+    
+  }
+}
